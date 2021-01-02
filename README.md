@@ -1,3 +1,3 @@
 # test_course
-first course of python
-second course of python
+
+This is demo for github repo. 
